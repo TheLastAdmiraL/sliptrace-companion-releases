@@ -1,0 +1,19 @@
+# Release assets are uploaded to GitHub Releases, not committed to git.
+*.exe
+*.msi
+*.msix
+*.nupkg
+*.zip
+*.7z
+*.dll
+*.pdb
+*.runtimeconfig.json
+*.deps.json
+
+# Local build/package staging.
+artifacts/
+packages/
+publish/
+staging/
+tmp/
+*.log
