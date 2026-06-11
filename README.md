@@ -4,6 +4,12 @@ Public, release-only repository for SlipTrace Companion Windows installer and Ve
 
 This repository intentionally does not contain SlipTrace source code.
 
+## Download Latest
+
+[Download SlipTrace Companion for Windows](https://github.com/TheLastAdmiraL/sliptrace-companion-releases/releases/latest/download/SlipTrace.Companion-Setup.exe)
+
+If the direct download does not start, open the [latest release](https://github.com/TheLastAdmiraL/sliptrace-companion-releases/releases/latest) and download `SlipTrace.Companion-Setup.exe` from the release assets.
+
 ## Release Assets
 
 Upload generated binaries to GitHub Releases, not to git history:
